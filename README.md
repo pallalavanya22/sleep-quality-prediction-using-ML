@@ -1,3 +1,10 @@
+# OUTPUT VIDEO
+https://github.com/user-attachments/assets/f13d91c0-7834-49d6-964f-a18de8c9ce09
+
+
+
+
+
 # Sleep Quality Predictor
 
 A machine learning web application that predicts an individual's sleep quality score based on lifestyle and behavioral factors such as screen time, caffeine intake, exercise duration, stress levels, and sleep duration.
@@ -189,27 +196,4 @@ The model reveals relationships such as:
 - User accounts and data persistence
 - Mobile app version
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements!
-
-## 📝 License
-
-This project is open source and available for educational purposes.
-
-## 👤 Author
-
-Developed as part of a machine learning project to predict sleep quality from lifestyle data.
-
-## 🙏 Acknowledgments
-
-- Sleep research community for insights on sleep factors
-- Open-source ML libraries (Scikit-learn, XGBoost)
-- Flask and web development community
-
----
-
-**Note**: This application uses synthetic data for demonstration purposes. For real-world applications, consider using validated datasets or collecting data from reliable sources.
-
-For questions or issues, please check the code comments or create an issue in the repository.
 
